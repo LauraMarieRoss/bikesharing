@@ -17,6 +17,7 @@ An educational exploration of bikesharing data to determine the viability of bik
 ## Results
 Several visualizations were created using Tableau 2022.2 and the full visualization can be found <a href="https://public.tableau.com/views/NYCCitiBikeRideShareOverviewAugust2019/NYCCitiBikeOverview?:language=en-US&:display_count=n&:origin=viz_share_link">here</a>.
 
+
 <a href="https://public.tableau.com/views/NYCCitiBikeRideShareOverviewAugust2019/NYCCitiBikeOverview?:language=en-US&:display_count=n&:origin=viz_share_link">
-         <img alt="Tableau NYC Citi Bike Rideshare Tableau Story" src="https://user-images.githubusercontent.com/105830645/187162612-b3162f0a-8fb9-4d8e-a236-5c07d6b84fc9.png"></a>
+         <img alt="Tableau NYC Citi Bike Rideshare Tableau Story" src="https://user-images.githubusercontent.com/105830645/187554414-31176ca2-f1bb-41f4-ba41-36d405327c65.png"></a>
 
